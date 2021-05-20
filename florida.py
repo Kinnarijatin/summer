@@ -1,1 +1,1 @@
-print("namaste modi")
+print("namaste trump")
